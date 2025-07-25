@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/atharv1001" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/atharv101" alt="LeetCode Stats" />
 </p>
 
 ### 📊 GitHub Statistics

@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 💡 I love exploring new technologies and building impactful projects.  
-🎓 BCA Graduate | Currently pursuing Master’s in Education with a keen interest in **Educational Technology**.  
+🎓MCA Pursuing| BCA Graduate | Currently pursuing Master’s in Education with a keen interest in **Educational Technology**.  
 🔭 Currently working on **full-stack projects** and enhancing my **Data Structures & Algorithms** skills.  
 📫 Reach me at: **yourmail@gmail.com**
 
